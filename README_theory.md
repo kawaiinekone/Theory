@@ -11,8 +11,6 @@
 3. [The ILP Wall & Out-of-Order Architecture](#3-the-instruction-level-parallelism-wall--out-of-order-ooo-architecture)
 4. [Superscalar Scaling Limits](#4-superscalar-scaling-limits--the-physical-realities-of-wide-issue)
 5. [Architectural Comparison Matrix](#5-architectural-comparison-matrix)
-6. [Worked Example: Slide 8 Assignment B2](#6-real-world-execution-slide-8-assignment-b2-fully-solved)
-
 ---
 
 ## 1. Pipeline Execution Foundations & The Physics of Latency vs. Throughput
